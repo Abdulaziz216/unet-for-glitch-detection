@@ -1,15 +1,6 @@
-# Glitch Classification on ACT Time-Ordered Data
+# Glitch Segmentation on ACT Time-Ordered Data
 
-This repository builds on the SUDS2025 work and extends it with a full pipeline for simulating, processing, and classifying glitches in Time-Ordered Data (TOD) from the Atacama Cosmology Telescope (ACT).
-
-It includes tools for:
-
-* Simulated data generation
-* Real data preparation
-* U-Net model for glitch segmentation
-* Grad-CAM model for visual explanation
-
-The repository is designed to support both research and experimentation with glitch classification models.
+This repository builds on the SUDS2025 work and extends it with a full pipeline for simulating, processing, and segment glitches in Time-Ordered Data (TOD) from the Atacama Cosmology Telescope (ACT).
 
 ---
 
