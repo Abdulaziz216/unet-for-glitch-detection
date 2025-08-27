@@ -1,0 +1,2 @@
+batch_id,seed,n_srcs,cr_rate,start_idx,end_idx,tod_file
+0,42,5,0.01,0,119,tod_00.npy
